@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "176634684308",
+    "firebase_url": "https://mizoram-7342b.firebaseio.com",
+    "project_id": "mizoram-7342b",
+    "storage_bucket": "mizoram-7342b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176634684308:android:c7599247230afb9b786581",
+        "android_client_info": {
+          "package_name": "com.covid19.mizoram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176634684308-irgpiool0d71jsbet30pb68p2kqb7ego.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMXmwYFMVwEUuYZOZ9Px-Q7s5lUV0OmGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176634684308-irgpiool0d71jsbet30pb68p2kqb7ego.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
